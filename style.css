@@ -6,6 +6,19 @@ body {
     padding: 0;
 }
 
+.logo-container {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+
+}
+
+.logo {
+    width: 100px; 
+    height: auto;
+    border-radius: 10px;
+}
+
 .billing-container {
     max-width: 1100px;
     margin: 20px auto;
